@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0" name="CollisionImplementation">
+    <implementation class="dk.sdu.mmmi.cbse.collision.CollisionProcessor"/>
+    <service>
+        <provide interface="dk.sdu.mmmi.cbse.common.services.IEntityProcessingService"/>
+    </service>
+</scr:component>
