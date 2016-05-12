@@ -10,3 +10,22 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Asteroids/application/target/
+/Asteroids/Weapon/target/
+/Asteroids/Core/target/
+/Asteroids/Collision/target/
+/Asteroids/Player/target/
+/Asteroids/Common/target/
+/Asteroids/SilentUpdate/target/
+/Asteroids/Enemy/target/
+/Asteroids/branding/target/
+/Asteroids/ServiceInitializer/target/
+/Asteroids/Launcher/target/
+/Asteroids/Health/target/
+/Asteroids/Asteroid/target/
+/Asteroids/Weapon/nbproject/
+/Asteroids/Health/nbproject/
+/Asteroids/Player/nbproject/
+/Asteroids/Collision/nbproject/
+/Asteroids/Asteroid/nbproject/
+/Asteroids/Enemy/nbproject/
