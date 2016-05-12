@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.mmmi.cbse.Weapon">
-    <module_version install_time="1463066322643" last="true" origin="installer" specification_version="1.0">
-        <file crc="768212564" name="config/Modules/dk-sdu-mmmi-cbse-Weapon.xml"/>
-        <file crc="758379468" name="modules/dk-sdu-mmmi-cbse-Weapon.jar"/>
-    </module_version>
-</module>

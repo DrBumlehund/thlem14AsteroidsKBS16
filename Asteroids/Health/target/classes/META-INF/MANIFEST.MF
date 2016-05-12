@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1463083089634
+Build-Jdk: 1.8.0_77
+Built-By: thomaslemqvist
+Bundle-Activator: dk.sdu.mmmi.cbse.health.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: Health OSGi Bundle
+Bundle-SymbolicName: dk.sdu.mmmi.cbse.Health
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Import-Package: dk.sdu.mmmi.cbse.common.data,dk.sdu.mmmi.cbse.common.ser
+ vices,org.osgi.framework;version="[1.6,2)"
+Tool: Bnd-1.50.0

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.mmmi.cbse.Launcher">
+    <module_version install_time="1463083093150" last="true" origin="installer" specification_version="1.0">
+        <file crc="667482790" name="config/Modules/dk-sdu-mmmi-cbse-Launcher.xml"/>
+        <file crc="4148930177" name="modules/dk-sdu-mmmi-cbse-Launcher.jar"/>
+    </module_version>
+</module>

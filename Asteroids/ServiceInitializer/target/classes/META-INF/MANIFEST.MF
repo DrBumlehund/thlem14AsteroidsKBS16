@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1463083090838
+Build-Jdk: 1.8.0_77
+Built-By: thomaslemqvist
+Bundle-ManifestVersion: 2
+Bundle-Name: OSGi Bundle Service Initializer
+Bundle-SymbolicName: dk.sdu.mmmi.cbse.ServiceInitializer
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: dk.sdu.mmmi.cbse.osgibundleserviceinitializer;uses:="org
+ .osgi.framework,org.osgi.service.component,dk.sdu.mmmi.cbse.common.serv
+ ices";version="1.0.0.SNAPSHOT"
+Import-Package: dk.sdu.mmmi.cbse.common.services,org.osgi.framework;vers
+ ion="[1.6,2)",org.osgi.service.component;version="[1.2,2)"
+Service-Component: META-INF/component.xml
+Tool: Bnd-1.50.0
