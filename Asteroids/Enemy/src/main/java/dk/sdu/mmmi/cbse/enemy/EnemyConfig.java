@@ -19,14 +19,12 @@ public class EnemyConfig {
     @Bean
     @Scope(value = "prototype")
     public EnemyAIControlSystemBean createEnemyAIProcessingService() {
-        System.out.println("Create shit spring, sumfin");
         return new EnemyAIControlSystemBean();
     }
 
     @Bean
     @Scope(value = "prototype")
     public EnemyPluginBean createPlayerPluginService() {
-        System.out.println("Create shit spring, sumfin");
         return new EnemyPluginBean();
     }
 }
